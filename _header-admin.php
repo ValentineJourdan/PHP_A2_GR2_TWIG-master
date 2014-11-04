@@ -10,3 +10,4 @@ if (!isConnected()) {
     header('Location: ../login.php');
     die('Forbidden Area');
 }
+
